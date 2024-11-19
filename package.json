@@ -1,0 +1,13 @@
+{
+  "name": "@common-module/wallet-utils",
+  "author": "yj.gaia",
+  "homepage": "https://personas.gaia.cc/yj.gaia",
+  "version": "0.2.2",
+  "type": "module",
+  "types": "./lib/index.d.ts",
+  "main": "./lib/index.js",
+  "dependencies": {
+    "viem": "^2.21.48"
+  },
+  "devDependencies": {}
+}
