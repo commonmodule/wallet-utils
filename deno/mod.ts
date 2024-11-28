@@ -1,2 +1,2 @@
-export { default as AddressUtils } from "../lib/AddressUtils.js";
-export { default as getChainById } from "../lib/getChainById.js";
+export { default as AddressUtils } from "./AddressUtils.ts";
+export { default as getChainById } from "./getChainById.ts";
